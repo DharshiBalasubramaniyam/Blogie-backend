@@ -1,4 +1,4 @@
-#Blogie
+## Blogie
 
 Backend for a blogging web application, using Node js, Express js and MongoDB.
 
